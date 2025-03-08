@@ -1,19 +1,28 @@
-<h1 align="center">Hi 👋, I'm Tianyi Wang</h1>
-<h3 align="center">A passionate programmer.</h3>
-<h3 align="center">A CS PhD student at the University of Sydney.</h3>
+<h1 align="center">Hi 👋, I'm Tianyi (Franklin) Wang</h1>
+<h3 align="center">Programmer | Researcher</h3>
 
-[![wakatime](https://wakatime.com/badge/user/f9251b2c-195b-4dfd-a681-c8816abb7f1e.svg)](https://wakatime.com/@f9251b2c-195b-4dfd-a681-c8816abb7f1e) 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=TianyiFranklinWang&label=Profile%20views&color=0e75b6&style=flat" alt="TianyiFranklinWang" /> </p>
+<p align="center">
+  <a href="https://wakatime.com/@f9251b2c-195b-4dfd-a681-c8816abb7f1e">
+    <img src="https://wakatime.com/badge/user/f9251b2c-195b-4dfd-a681-c8816abb7f1e.svg" alt="Wakatime Badge">
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=TianyiFranklinWang&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views">
+</p>
 
+### 🔬 About Me
+- 🎓 **PhD Candidate** at *The University of Sydney*  
+- 🧠 **Research Interests**: Computational Pathology, Self-Supervised Learning, Reinforcement Learning, Multimodal Learning  
+- 🏥 **Recent Work**:  
+  - 📄 [**MIRROR: Multi-Modal Pathological Self-Supervised Representation Learning via Modality Alignment and Retention**](https://arxiv.org/abs/2503.00374)  
+- 🚀 **Technical Focus**: High-performance deep learning (CUDA, PyTorch, PyTorch Image Models)  
+
+### 📫 Connect with Me
+- 📩 **Email**: twan0134@uni.sydney.edu.au 
+
+### 📊 GitHub Stats
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=TianyiFranklinWang" alt="TianyiFranklinWang" /></a> </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://circleci.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://travis-ci.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-icon.svg" alt="travisci" width="40" height="40"/> </a> <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/> </a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=TianyiFranklinWang&show_icons=true&locale=en&layout=compact" alt="TianyiFranklinWang" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=TianyiFranklinWang&show_icons=true&locale=en" alt="TianyiFranklinWang" /></p>
 
-<!---
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TianyiFranklinWang&" alt="TianyiFranklinWang" /></p>
--->
