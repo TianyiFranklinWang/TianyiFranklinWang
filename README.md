@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tianyi (Franklin) Wang</h1>
-<h3 align="center">Programmer | Researcher</h3>
+<h3 align="center">Programmer | PhD Candidate</h3>
 
 <p align="center">
   <a href="https://wakatime.com/@f9251b2c-195b-4dfd-a681-c8816abb7f1e">
