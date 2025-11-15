@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tianyi (Franklin) Wang</h1>
-<h3 align="center">Programmer | PhD Candidate | Researcher</h3>
+<h3 align="center">Programmer | PhD Candidate | Research Assistant | Researcher</h3>
 
 <p align="center">
   <a href="https://wakatime.com/@f9251b2c-195b-4dfd-a681-c8816abb7f1e">
@@ -10,9 +10,9 @@
 
 ### 🔬 About Me
 - 🎓 **PhD Candidate** at *The University of Sydney*  
-- 🧠 **Research Interests**: Computational Pathology, Self-Supervised Learning, Reinforcement Learning, Multimodal Learning  
+- 🧠 **Research Interests**: Computational Pathology, Self-Supervised Learning, Reinforcement Learning, Multimodal Learning, Vision Language Model
 - 🏥 **Recent Work**:  
-  - 📄 [**MIRROR: Multi-Modal Pathological Self-Supervised Representation Learning via Modality Alignment and Retention**](https://arxiv.org/abs/2503.00374)  
+  - 📄 [**MIRROR: Multi-Modal Pathological Self-Supervised Representation Learning via Modality Alignment and Retention**](https://ieeexplore.ieee.org/document/11245622)
 - 🚀 **Technical Focus**: High-performance deep learning (CUDA, PyTorch, PyTorch Image Models)  
 
 ### 📫 Connect with Me
